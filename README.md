@@ -1,5 +1,7 @@
 # Implementing Google's Two-Step Authentication with SWIFT 
 
+The algorithm is from https://www.codementor.io/slavko/google-two-step-authentication-otp-generation-du1082vho
+
 # 1.Take the current Unix Time Stamp 
 Swift Code: 
 let timeInterval = NSDate().timeIntervalSince1970 
